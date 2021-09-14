@@ -23,9 +23,9 @@ Users had to be able to:
 
 ### Screenshot
 
-![Order Summary Card Component - Desktop] (./design/solution/order_summary_card_desktop.jpg)
+![Order Summary Card Component - Desktop (./design/solution/order_summary_card_desktop.jpg)
 
-[Order Summary Card Component - Mobile] (./design/solution/order_summary_card_mobile.jpg)
+[Order Summary Card Component - Mobile (./design/solution/order_summary_card_mobile.jpg)
 
 ### Links
 
