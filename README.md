@@ -23,11 +23,9 @@ Users had to be able to:
 
 ### Screenshot
 
-![Order Summary Card Component - Desktop] (./design/solution/order_summary_card_desktop.jpg)
+![Order Summary Card Component - Desktop](./design/solution/order_summary_card_desktop.jpg)
 
-![Order Summary Card Component - Mobile] (./design/solution/order_summary_card_mobile.jpg)
-
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Order Summary Card Component - Mobile](./design/solution/order_summary_card_mobile.jpg)
 
 ### Links
 
