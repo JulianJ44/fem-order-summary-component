@@ -29,7 +29,7 @@ Users had to be able to:
 
 ### Links
 
-- Solution URL: [https://summary-component.netlify.app/ ]
+- Solution URL: https://summary-component.netlify.app/
 
 ## My process
 
