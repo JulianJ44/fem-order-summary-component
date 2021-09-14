@@ -9,8 +9,6 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 I took on the challenge created by Frontend Mentor to recreate an order summary card component. The challenge was created to help me practice my coding skills by building real live projects.
