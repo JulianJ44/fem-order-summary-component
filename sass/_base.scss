@@ -1,0 +1,56 @@
+:root {
+  --pale-blue: hsl(225, 100%, 94%);
+  --bright-blue: hsl(245, 75%, 52%);
+  --very-pale-blue: hsl(225, 100%, 98%);
+  --desaturated-blue: hsl(224, 23%, 55%);
+  --dark-blue: hsl(223, 47%, 23%);
+  --white: hsl(0, 0%, 100%);
+  --dark-purple: hsl(245, 83%, 68%);
+}
+
+/////////SASS Variables Start/////////
+$font-family: 'Red Hat Display', sans-serif;
+
+/////////Responsive Breakpoint/////////
+$bp-small: 23.44em;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px; // 1rem = 10px/16px = 62.5%
+}
+
+body {
+  font-family: $font-family;
+  background-color: var(--pale-blue);
+  background-image: url(../img/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  @media only screen and (max-width: $bp-small) {
+    background-image: url(../img/pattern-background-mobile.svg);
+  }
+}
+
+.attribution {
+  font-size: 1rem;
+  text-align: center;
+
+  a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  @media only screen and (max-width: $bp-small) {
+    font-size: 0.8rem;
+  }
+}
