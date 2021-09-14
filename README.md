@@ -27,6 +27,8 @@ Users had to be able to:
 
 [Order Summary Card Component - Mobile (./design/solution/order_summary_card_mobile.jpg)
 
+![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+
 ### Links
 
 - Solution URL: [https://summary-component.netlify.app/ ]
