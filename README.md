@@ -23,13 +23,13 @@ Users had to be able to:
 
 ### Screenshot
 
-![Order Summary Card Component - Desktop](./design/solution/order_summary_card_desktop.jpg)
+![Order Summary Card Component - Desktop] (./design/solution/order_summary_card_desktop.jpg)
 
-[Order Summary Card Component - Mobile](./design/solution/order_summary_card_mobile.jpg)
+[Order Summary Card Component - Mobile] (./design/solution/order_summary_card_mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here] (https://summary-component.netlify.app/)
+- Solution URL: [https://summary-component.netlify.app/ ]
 
 ## My process
 
