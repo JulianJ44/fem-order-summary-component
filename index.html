@@ -7,7 +7,6 @@
       href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap"
       rel="stylesheet"
     />
-
     <link rel="stylesheet" href="sass/main.css" />
     <link
       rel="icon"
@@ -15,40 +14,47 @@
       sizes="32x32"
       href="./images/favicon-32x32.png"
     />
-
     <title>Frontend Mentor | Order summary card</title>
   </head>
   <body>
-    <div class="card">
-      <div class="card__hero">
-        <img src="img/illustration-hero.svg" alt="illustration" class="hero" />
-      </div>
-      <h1 class="card__heading">Order Summary</h1>
-      <p class="card__text">
-        You can now listen to millions of songs, audiobooks, and podcasts on any
-        device anywhere you like!
-      </p>
-      <div class="card__subscription-box">
-        <div class="card__subscription-icon">
-          <img src="img/icon-music.svg" alt="music icon" class="icon" />
+    <main>
+      <div class="card">
+        <div class="card__hero">
+          <img
+            src="img/illustration-hero.svg"
+            alt="illustration"
+            class="hero"
+          />
         </div>
-        <div class="card__subscription-plan">
-          <h3 class="card__subscription-title">Annual Plan</h3>
-          <span class="card__subscription-price">$59.99/year</span>
+        <h1 class="card__heading">Order Summary</h1>
+        <p class="card__text">
+          You can now listen to millions of songs, audiobooks, and podcasts on
+          any device anywhere you like!
+        </p>
+        <div class="card__subscription-box">
+          <div class="card__subscription-icon">
+            <img src="img/icon-music.svg" alt="music icon" class="icon" />
+          </div>
+          <div class="card__subscription-plan">
+            <h2 class="card__subscription-title">Annual Plan</h2>
+            <span class="card__subscription-price">$59.99/year</span>
+          </div>
+          <button class="card__subscription-link">change</button>
         </div>
-        <button class="card__subscription-link">change</button>
+        <div class="card__btn">
+          <button class="card__btn--payment">Proceed to Payment</button>
+          <button class="card__btn--cancel">Cancel Order</button>
+        </div>
       </div>
-      <div class="card__btn">
-        <button class="card__btn--payment">Proceed to Payment</button>
-        <button class="card__btn--cancel">Cancel Order</button>
+    </main>
+    <footer>
+      <div class="attribution">
+        Challenge by
+        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+          >Frontend Mentor</a
+        >. Coded by
+        <a href="https://www.linkedin.com/in/julian-joseph/">Julian Joseph</a>.
       </div>
-    </div>
-    <div class="attribution">
-      Challenge by
-      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-        >Frontend Mentor</a
-      >. Coded by
-      <a href="https://www.linkedin.com/in/julian-joseph/">Julian Joseph</a>.
-    </div>
+    </footer>
   </body>
 </html>
