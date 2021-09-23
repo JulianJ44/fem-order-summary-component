@@ -11,7 +11,7 @@
 
 ## Overview
 
-I took on the challenge created by Frontend Mentor to recreate an order summary card component. The challenge was created to help me practice my coding skills by building real live projects.
+I took on the challenge created by Frontend Mentor to recreate an order summary card component.
 
 ### The challenge
 
@@ -38,13 +38,14 @@ Users had to be able to:
 3. Plan how I will action the coding challenege
 4. Set up the project files
 5. Set up basic styles and HTML Markup
-6. Styling with CSS
+6. Styling with Sass
 7. Make card component responsive
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- Sass
 - Flexbox
 - Desktop-first workflow
 - BEM (Block Elements Modifier)
